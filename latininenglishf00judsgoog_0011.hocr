@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./latininenglishf00judsgoog_0011.png"; bbox 0 0 2617 3917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 356 1781 965 1862">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 356 1781 965 1862">
+     <span class='ocr_line' id='line_1_1' title="bbox 356 1781 965 1862; baseline 0.002 -14"><span class='ocrx_word' id='word_1_1' title='bbox 356 1781 524 1858; x_wconf 55' lang='lat' dir='ltr'><strong>&amp;hamunt</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 544 1782 655 1862; x_wconf 56' lang='lat' dir='ltr'><strong>&amp;tutat</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 675 1783 786 1849; x_wconf 61' lang='lat' dir='ltr'><strong>intutu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 805 1782 965 1858; x_wconf 62' lang='lat' dir='ltr'><strong>fflaffltan</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1314 3917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1314 3917">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1314 3917; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1314 3917; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
